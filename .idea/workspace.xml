@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7196ac3-71b9-4eaa-840d-5b3091f2be53" name="Default Changelist" comment="" />
+    <list default="true" id="a7196ac3-71b9-4eaa-840d-5b3091f2be53" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module1/ANN.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module1/ANN.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +17,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1iduLrK0R4WAxSvY8OqAG1hObap" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,12 +42,44 @@
       <option name="presentableId" value="Default" />
       <updated>1602249736988</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit2">
+      <created>1602250468264</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602250468264</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit2" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602250281734">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state x="184" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.822@0.23.1440.822" timestamp="1602250281734" />
+    <state x="297" y="23" width="846" height="822" key="CommitChangelistDialog2" timestamp="1602250467837">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="297" y="23" width="846" height="822" key="CommitChangelistDialog2/0.23.1440.822@0.23.1440.822" timestamp="1602250467837" />
+    <state x="144" y="94" key="DiffContextDialog" timestamp="1602250455399">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="144" y="94" key="DiffContextDialog/0.23.1440.822@0.23.1440.822" timestamp="1602250455399" />
+    <state x="590" y="338" key="Github.ShareDialog" timestamp="1602250373716">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="590" y="338" key="Github.ShareDialog/0.23.1440.822@0.23.1440.822" timestamp="1602250373716" />
+    <state x="580" y="143" key="Github.UntrackedFilesDialog" timestamp="1602250381438">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="580" y="143" key="Github.UntrackedFilesDialog/0.23.1440.822@0.23.1440.822" timestamp="1602250381438" />
+    <state x="320" y="174" key="Vcs.Push.Dialog.v2" timestamp="1602250486289">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.822@0.23.1440.822" timestamp="1602250486289" />
   </component>
 </project>
