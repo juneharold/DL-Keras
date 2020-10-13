@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7196ac3-71b9-4eaa-840d-5b3091f2be53" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Module3/Keras_Classification.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module4/Keras_CNN.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classification_model.h5" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/classification_model.h5" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +31,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Module3" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -63,24 +69,32 @@
       <option name="project" value="LOCAL" />
       <updated>1602396075251</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="hello world of DL">
+      <created>1602397720834</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602397720834</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit2" />
     <MESSAGE value="forward propagation" />
     <MESSAGE value="learning keras regression" />
-    <option name="LAST_COMMIT_MESSAGE" value="learning keras regression" />
+    <MESSAGE value="hello world of DL" />
+    <option name="LAST_COMMIT_MESSAGE" value="hello world of DL" />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602250281734">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state x="184" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.822@0.23.1440.822" timestamp="1602250281734" />
-    <state x="297" y="23" width="846" height="822" key="CommitChangelistDialog2" timestamp="1602396074941">
+    <state x="297" y="23" width="846" height="822" key="CommitChangelistDialog2" timestamp="1602397720405">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
-    <state x="297" y="23" width="846" height="822" key="CommitChangelistDialog2/0.23.1440.822@0.23.1440.822" timestamp="1602396074941" />
+    <state x="297" y="23" width="846" height="822" key="CommitChangelistDialog2/0.23.1440.822@0.23.1440.822" timestamp="1602397720405" />
     <state x="144" y="94" key="DiffContextDialog" timestamp="1602250455399">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
@@ -93,9 +107,9 @@
       <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state x="580" y="143" key="Github.UntrackedFilesDialog/0.23.1440.822@0.23.1440.822" timestamp="1602250381438" />
-    <state x="320" y="174" key="Vcs.Push.Dialog.v2" timestamp="1602396085515">
+    <state x="320" y="174" key="Vcs.Push.Dialog.v2" timestamp="1602397804079">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
-    <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.822@0.23.1440.822" timestamp="1602396085515" />
+    <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.822@0.23.1440.822" timestamp="1602397804079" />
   </component>
 </project>
