@@ -1,10 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a7196ac3-71b9-4eaa-840d-5b3091f2be53" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Module4/Keras_CNN.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classification_model.h5" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/classification_model.h5" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +46,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -37,6 +54,7 @@
       <recent name="$PROJECT_DIR$/Module3" />
     </key>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -76,40 +94,34 @@
       <option name="project" value="LOCAL" />
       <updated>1602397720834</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="cnn">
+      <created>1602576869536</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602576869538</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit2" />
     <MESSAGE value="forward propagation" />
     <MESSAGE value="learning keras regression" />
     <MESSAGE value="hello world of DL" />
-    <option name="LAST_COMMIT_MESSAGE" value="hello world of DL" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="184" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602250281734">
-      <screen x="0" y="23" width="1440" height="822" />
-    </state>
-    <state x="184" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.822@0.23.1440.822" timestamp="1602250281734" />
-    <state x="297" y="23" width="846" height="822" key="CommitChangelistDialog2" timestamp="1602397720405">
-      <screen x="0" y="23" width="1440" height="822" />
-    </state>
-    <state x="297" y="23" width="846" height="822" key="CommitChangelistDialog2/0.23.1440.822@0.23.1440.822" timestamp="1602397720405" />
-    <state x="144" y="94" key="DiffContextDialog" timestamp="1602250455399">
-      <screen x="0" y="23" width="1440" height="822" />
-    </state>
-    <state x="144" y="94" key="DiffContextDialog/0.23.1440.822@0.23.1440.822" timestamp="1602250455399" />
-    <state x="590" y="338" key="Github.ShareDialog" timestamp="1602250373716">
-      <screen x="0" y="23" width="1440" height="822" />
-    </state>
-    <state x="590" y="338" key="Github.ShareDialog/0.23.1440.822@0.23.1440.822" timestamp="1602250373716" />
-    <state x="580" y="143" key="Github.UntrackedFilesDialog" timestamp="1602250381438">
-      <screen x="0" y="23" width="1440" height="822" />
-    </state>
-    <state x="580" y="143" key="Github.UntrackedFilesDialog/0.23.1440.822@0.23.1440.822" timestamp="1602250381438" />
-    <state x="320" y="174" key="Vcs.Push.Dialog.v2" timestamp="1602397804079">
-      <screen x="0" y="23" width="1440" height="822" />
-    </state>
-    <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.822@0.23.1440.822" timestamp="1602397804079" />
+    <MESSAGE value="cnn" />
+    <option name="LAST_COMMIT_MESSAGE" value="cnn" />
   </component>
 </project>
